@@ -42,8 +42,8 @@ body{
     display: flex;
     padding-left: 500px;
 }
-.links-header{
-    padding-right: 30px;
+.links-blocks{
+    padding-right: 25px;
 }
 .logo{
     font-size: 60px;
